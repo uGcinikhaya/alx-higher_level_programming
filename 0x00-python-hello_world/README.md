@@ -6,4 +6,5 @@ A source code in order to print the float stored in the variable.
 Complete source code to print Welcome to holberton school.
 Copy Cut Paste.
 Create a new sentence.
-Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+Write a Python script that prints "The Zen of Python", by TimPeters, followed by a new line.
+Technical Interview a function that checks if a singly linked list has a cycle in it.
