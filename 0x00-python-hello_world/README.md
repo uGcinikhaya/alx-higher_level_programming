@@ -10,3 +10,9 @@ Write a Python script that prints "The Zen of Python", by TimPeters, followed by
 Technical Interview a function that checks if a singly linked list has a cycle in it.
 Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19
 Write a script that compiles a Python script file.
+Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:3           0 LOAD_CONST               1 (98)
+              3 LOAD_FAST                0 (a)
+              6 LOAD_FAST                1 (b)
+              9 BINARY_POWER
+             10 BINARY_ADD
+             11 RETURN_VALUE
