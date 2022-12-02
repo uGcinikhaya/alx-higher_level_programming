@@ -25,3 +25,5 @@ Task 3: Write a program that prints the result of the addition of all arguments
 
 The output should be the result of the addition of all arguments, followed by a new line
 You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
+
+Task 4: Write a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).
