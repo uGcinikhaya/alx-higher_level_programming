@@ -8,7 +8,7 @@ add_integer:
 
 def add_integer(a, b=98):
     """
-    Checks if int, otherwise return sum
+    Checks if int, otherwise return sum of parameters
     """
     if type(a) == float or type(b) == float:
         a = int(a)
